@@ -1,6 +1,7 @@
 Hi there , I'm Keevz
 
-![image](https://user-images.githubusercontent.com/121359424/212104481-83845694-786b-4465-969c-7deba1054f48.png)
+![image](https://user-images.githubusercontent.com/121359424/212108356-2c6b0d85-fe74-4c91-8af9-b58e80c4276d.png)
+
 
 
 Langauges I Know:
